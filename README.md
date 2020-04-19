@@ -15,3 +15,8 @@
 
 3. Simple Recommendation System
 - 내가 본 영화와 유사한 영화를 추천해주는 간단한 시스템 (인기도, 평점 고려)
+
+
+
+4. Korean Font Recognition
+- 이미지에서 한글 폰트를 인식하는 프로젝트 
