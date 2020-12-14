@@ -1,2 +1,4 @@
 # my kaggle API key
 kaggle_API_key
+
+kaggle_newyork_parking_ticket/*.csv
